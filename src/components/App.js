@@ -1,12 +1,12 @@
 // import {useEffect, useState} from 'react';
-// import {Route} from 'react-router-dom';
-
+import image from '../images/medium-logo-white.png';
+import Header from './Header.js';
 import '../styles/App.scss';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hola mundo</h1>
+      <Header image={image} />
     </div>
   );
 }
