@@ -1,0 +1,15 @@
+$size: 18px;
+
+$black: #000;
+$white: #eff9ff;
+$green: #00796b;
+
+$color-light: $white;
+$color-dark: $black;
+$color-sec: $green;
+
+:root {
+  font-size: $size;
+  background-color: $color-light;
+  color: $green;
+}

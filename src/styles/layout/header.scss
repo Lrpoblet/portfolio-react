@@ -1,6 +1,7 @@
 .header {
-  background-color: black;
+  background-color: $color-sec;
   padding: 8px 25px;
+  height: 5vh;
 
   .nav {
     display: flex;
@@ -14,6 +15,7 @@
 
     &__logo {
       height: 32px;
+      padding-bottom: 3px;
     }
 
     &__light {
