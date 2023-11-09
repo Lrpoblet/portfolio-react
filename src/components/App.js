@@ -1,5 +1,5 @@
 // import {useEffect, useState} from 'react';
-import image from '../images/medium-logo-white.png';
+import image from '../images/small-logo-white.png';
 import Header from './Header.js';
 import '../styles/App.scss';
 
