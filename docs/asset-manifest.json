@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.726fa4b2.css",
-    "main.js": "./static/js/main.b5f8b4a0.js",
-    "static/media/ico-moon.svg": "./static/media/ico-moon.4172898414e1ce1d49a7ee5ba59eb6b0.svg",
-    "static/media/ico-menu.svg": "./static/media/ico-menu.35af4a247c22fa9b4a8694c3bc2e16d9.svg",
+    "main.css": "./static/css/main.bce12b8d.css",
+    "main.js": "./static/js/main.a2088fab.js",
+    "static/media/ico-heart.svg": "./static/media/ico-heart.8684c3563380b512100f7fd3f367dfb8.svg",
+    "static/media/ico-github.svg": "./static/media/ico-github.befbb69d7b3c4bb20c230e92fd2794ca.svg",
+    "static/media/ico-twitter.svg": "./static/media/ico-twitter.14d6bf7fe752599249f0dee1b547d6dc.svg",
+    "static/media/ico-linkedin.svg": "./static/media/ico-linkedin.e71c84e106a25256e8d71ed25b34f127.svg",
     "index.html": "./index.html",
-    "main.726fa4b2.css.map": "./static/css/main.726fa4b2.css.map",
-    "main.b5f8b4a0.js.map": "./static/js/main.b5f8b4a0.js.map"
+    "static/media/ico-moon.svg": "./static/media/ico-moon.3279de68d61bfd42debc59981b1ae078.svg",
+    "static/media/ico-menu.svg": "./static/media/ico-menu.35af4a247c22fa9b4a8694c3bc2e16d9.svg",
+    "main.bce12b8d.css.map": "./static/css/main.bce12b8d.css.map",
+    "main.a2088fab.js.map": "./static/js/main.a2088fab.js.map"
   },
   "entrypoints": [
-    "static/css/main.726fa4b2.css",
-    "static/js/main.b5f8b4a0.js"
+    "static/css/main.bce12b8d.css",
+    "static/js/main.a2088fab.js"
   ]
 }
