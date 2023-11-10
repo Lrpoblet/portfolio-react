@@ -1,3 +1,5 @@
+$font-title: 'Roboto Slab', serif;
+$font-text: 'Roboto', sans-serif;
 $size: 18px;
 
 $black: #000;
@@ -9,7 +11,7 @@ $color-dark: $black;
 $color-sec: $green;
 
 :root {
-  font-size: $size;
+  font: $size $font-text;
   background-color: $color-light;
   color: $green;
 }

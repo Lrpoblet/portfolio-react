@@ -1,16 +1,18 @@
 .header {
   background-color: $color-sec;
-  padding: 8px 25px;
-  height: 5vh;
+  padding: 0 2em;
+  height: 8vh;
 
   .nav {
+    height: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
 
     &__menu {
       height: 35px;
-      padding-right: 26px;
+      padding-right: 2em;
+      filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.5));
     }
 
     &__logo {
@@ -20,6 +22,7 @@
 
     &__light {
       height: 25px;
+      filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.5));
     }
   }
 }
