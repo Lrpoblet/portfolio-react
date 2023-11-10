@@ -22,7 +22,7 @@
     "build": "react-scripts build",
     "test": "jest --coverage --passWithNoTests",
     "lint": "semistandard --fix",
-    "githubpages": "rm -rf build && rm -rf docs && npm run build && mv build docs && git add docs/* && git commit -m \"Publish in GitHub Pages\" && git push"
+    "githubpages": "rm -rf build && rm -rf docs && npm run build && mv build docs && git add docs/* && git commit -m \"chore: publish in GitHub Pages\" && git push"
   },
   "commitlint": {
     "extends": "@commitlint/config-conventional"

@@ -22,6 +22,10 @@ To run the tests:
 
 `npm run test`
 
+### Deploy
+
+https://lrpoblet.github.io/portfolio-react/
+
 ## Author
 
 Lara R. Poblet - [@lrpoblet](https://lrpoblet.github.io/lara-ramos-poblet/)
